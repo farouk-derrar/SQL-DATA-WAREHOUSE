@@ -23,7 +23,6 @@ This project involves:
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 - SQL Development
@@ -31,7 +30,6 @@ This project involves:
 - Data Engineering  
 - ETL Pipeline Developer  
 - Data Modeling  
-- Data Analytics  
 
 ---
 
@@ -43,8 +41,6 @@ Everything is for Free!
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-- **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
-- **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
 
 ---
 
@@ -66,7 +62,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ## 📂 Repository Structure
 ```
-data-warehouse-project/
+SQL-DATA-WAREHOUSE/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
@@ -85,10 +81,8 @@ data-warehouse-project/
 │
 ├── tests/                              # Test scripts and quality files
 │
-├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
-├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
+├── README.md                           # Project overview and instructions
 ```
 ---
 
@@ -99,7 +93,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **DERRAR FAROUK**, a recent graduate in Information Systems & Data, passionate about Data Engineering. I enjoy building real-world projects and turning data into useful solutions. I’m now looking for a full-time opportunity to apply my skills, gain hands-on experience, and contribute to real-world data projects.
+Hi there! I'm **Derrar Farouk**, a recent graduate in Information Systems & Data, passionate about Data Engineering. I enjoy building real-world projects and turning data into useful solutions. I’m now looking for a full-time opportunity to apply my skills, gain hands-on experience, and contribute to real-world data projects.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
